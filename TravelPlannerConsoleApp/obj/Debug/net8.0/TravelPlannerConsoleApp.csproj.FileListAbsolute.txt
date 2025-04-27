@@ -1,0 +1,17 @@
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerConsoleApp.deps.json
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerConsoleApp.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerConsoleApp.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\refint\TravelPlannerConsoleApp.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\ref\TravelPlannerConsoleApp.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerCore.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerCore.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPlannerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\obj\Debug\net8.0\TravelPl.0FA9778E.Up2Date
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerData.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerConsoleApp\bin\Debug\net8.0\TravelPlannerData.pdb
