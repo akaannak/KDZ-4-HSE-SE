@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\bin\Debug\net8.0\TravelPlannerData.deps.json
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\bin\Debug\net8.0\TravelPlannerData.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\bin\Debug\net8.0\TravelPlannerData.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\bin\Debug\net8.0\TravelPlannerCore.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\bin\Debug\net8.0\TravelPlannerCore.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPl.73524ADC.Up2Date
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\refint\TravelPlannerData.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\TravelPlannerData.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerData\obj\Debug\net8.0\ref\TravelPlannerData.dll

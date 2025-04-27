@@ -1,0 +1,12 @@
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\bin\Debug\net8.0\TravelPlannerCore.deps.json
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\bin\Debug\net8.0\TravelPlannerCore.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\bin\Debug\net8.0\TravelPlannerCore.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\refint\TravelPlannerCore.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.pdb
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\ref\TravelPlannerCore.dll
+C:\Users\Anna\Desktop\IDZ-4\TravelPlannerCore\obj\Debug\net8.0\TravelPlannerCore.csproj.AssemblyReference.cache
